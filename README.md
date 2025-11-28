@@ -9,17 +9,14 @@ I’m passionate about building impactful AI solutions — from ML & DL models t
 
 ## 🚀 Featured Projects
 
-### 🔍 *Driver Drowsiness Detection*
-A deep learning model using CNNs + facial keypoints to detect driver drowsiness in real time.
+### 💱 *Currency Converter*
+A simple and interactive Python project that converts currencies using real-time or fixed exchange rates.  
 
-### 🧠 *AI Resume Reviewer* (Coming Soon)
-An AI-powered tool that analyzes resumes, highlights strengths, and suggests improvements using NLP.
+### 📘 *Marks Predictor*
+A machine learning model that predicts student marks based on study hours using Linear Regression.  
 
-### 📊 *Customer Churn Prediction* (Coming Soon)
-A machine learning model to predict customer churn and help businesses retain customers proactively.
-
-### 🤖 *AI Automation Agent* (Coming Soon)
-An AI automation bot that integrates APIs and automates repetitive workflows using intelligent decision-making.
+### 🤖 *LangChain Workshop*
+A collection of LangChain examples demonstrating LLM prompts, chains, and basic AI agent workflows.  
 
 ---
 
